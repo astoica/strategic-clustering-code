@@ -1,4 +1,4 @@
-''' This code implements the set of algorithms described in Section 6 and in the Appendix in order to find the next point in the fairness/utility-quality trade-off curve.'''
+''' This code implements the set of algorithms described in Section 5 in order to find the next point in the fairness/utility-quality trade-off curve.'''
 import networkx as nx
 import csv 
 import numpy as np
