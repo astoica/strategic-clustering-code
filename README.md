@@ -1,6 +1,6 @@
 # strategic-clustering-sagt22
 
-This repository contains all the code used for the "Strategic clustering" paper, submitted to SAGT 2022:
+This repository contains all the code used for the "Strategic clustering" paper:
 - The datasets folder contains the three datasets used for this submission: APS, Facebook, and Highschool datasets.
 - The following files contain the code used in the experimental analysis of Sections 4, 5, and 6 (all written for Python 3): 
   - section4-nashequilibria-realdatasets.py contains the code for running experiments from Section 4 and plotting Figures 2 and 3.
@@ -8,3 +8,5 @@ This repository contains all the code used for the "Strategic clustering" paper,
   - section6-statparity-realdatasets.py contains the code for running experiments from Section 6 and plotting Figures 5 and 6.
 
 For running any of the above code, uncomment the section that relates to the data desired to use (APS, Highschool, Facebook).
+
+Note: newest version of the trade-off algorithm is in strategic-clustering-tradeoffalg-cleanedup.ipynb.
